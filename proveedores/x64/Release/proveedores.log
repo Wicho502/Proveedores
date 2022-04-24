@@ -1,0 +1,5 @@
+﻿  proveedores.cpp
+C:\Users\ltaze\Documents\UMG\TERCER SEMESTRE\Programacion I 14 a 16\Tarea SQL Proveedores\proveedores\proveedores.cpp(25,16): error C3861: 'crear': no se encontró el identificador
+C:\Users\ltaze\Documents\UMG\TERCER SEMESTRE\Programacion I 14 a 16\Tarea SQL Proveedores\proveedores\proveedores.cpp(26,16): error C3861: 'leer': no se encontró el identificador
+C:\Users\ltaze\Documents\UMG\TERCER SEMESTRE\Programacion I 14 a 16\Tarea SQL Proveedores\proveedores\proveedores.cpp(27,16): error C3861: 'actualizar': no se encontró el identificador
+C:\Users\ltaze\Documents\UMG\TERCER SEMESTRE\Programacion I 14 a 16\Tarea SQL Proveedores\proveedores\proveedores.cpp(28,16): error C3861: 'borrar': no se encontró el identificador
